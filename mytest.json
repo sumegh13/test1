@@ -1,0 +1,15 @@
+[
+    {
+        "first name": "Kabir",
+        "last name": "Singh",
+        "age": 25,
+        "marks":[{
+            "english":45
+        },
+        {
+            "math":57
+        }
+    ],
+    "address":"Delhi"
+    }
+]
