@@ -1,7 +1,7 @@
 [
     {
-        "first name": "Kabir",
-        "last name": "Singh",
+        "firstname": "Kabir",
+        "lastname": "Singh",
         "age": 25,
         "marks":[{
             "english":45
